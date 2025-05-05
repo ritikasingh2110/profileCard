@@ -1,0 +1,30 @@
+.whole{
+    margin: 25px;
+    padding: 0;
+}
+.first{
+    margin: 0;
+    padding: 0;
+    /* font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    font-family:serif;
+    
+}
+.second{
+    margin: 5px;
+    padding: 0;
+    color: rgb(185, 183, 183);
+    font-size: 15px;
+    font-style: italic;
+}
+.third{
+    margin: 15px 0px 0px 0px;
+    padding: 10;
+    border-radius: 10px;
+    border: 1px solid rgb(59, 59, 59);
+}
+.third:hover{
+    border: 1px solid grey;
+    background-color: rgba(54, 91, 150, 0.678);
+}
