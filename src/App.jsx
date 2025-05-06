@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import Brief from './Components/brief'
+import Brief from './Components/Brief'
 import Im from './Components/Im'
 import photoo from './assets/photu.png'
 
